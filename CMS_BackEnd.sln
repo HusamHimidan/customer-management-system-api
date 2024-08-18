@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS_BackEnd", "CMS_BackEnd\CMS_BackEnd.csproj", "{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS_BackEnd.Test", "CMS_BackEnd.Test\CMS_BackEnd.Test.csproj", "{006F690F-129C-476B-B4F5-B529DD6224DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{006F690F-129C-476B-B4F5-B529DD6224DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006F690F-129C-476B-B4F5-B529DD6224DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006F690F-129C-476B-B4F5-B529DD6224DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{006F690F-129C-476B-B4F5-B529DD6224DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96404AD6-D2FD-4270-B83F-5146C6655946}
+	EndGlobalSection
+EndGlobal
