@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{006F690F-129C-476B-B4F5-B529DD6224DD}|CMS_BackEnd.Test\\CMS_BackEnd.Test.csproj|c:\\users\\husam\\source\\repos\\husamhimidan\\customer-management-system-api\\cms_backend.test\\customertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006F690F-129C-476B-B4F5-B529DD6224DD}|CMS_BackEnd.Test\\CMS_BackEnd.Test.csproj|solutionrelative:cms_backend.test\\customertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\cms_backend\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|solutionrelative:cms_backend\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\cms_backend\\models\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|solutionrelative:cms_backend\\models\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\cms_backend\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|solutionrelative:cms_backend\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\cms_backend\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|solutionrelative:cms_backend\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\cms_backend\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|solutionrelative:cms_backend\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\cms_backend\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|solutionrelative:cms_backend\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\cms_backend\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|solutionrelative:cms_backend\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\cms_backend\\auth\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|solutionrelative:cms_backend\\auth\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\cms_backend\\auth\\jwttokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|solutionrelative:cms_backend\\auth\\jwttokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\cms_backend\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|solutionrelative:cms_backend\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\cms_backend\\migrations\\202408171310149_seedcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|solutionrelative:cms_backend\\migrations\\202408171310149_seedcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\cms_backend\\migrations\\202408171206478_updateemaillength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|solutionrelative:cms_backend\\migrations\\202408171206478_updateemaillength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\cms_backend\\migrations\\202408171125212_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|solutionrelative:cms_backend\\migrations\\202408171125212_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\cms_backend\\migrations\\202408171139406_updatecustomermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2FE113-6B19-4A8E-8E6E-E0AA9EF8BD0A}|CMS_BackEnd\\CMS_BackEnd.csproj|solutionrelative:cms_backend\\migrations\\202408171139406_updatecustomermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CMS_BackEnd\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CMS_BackEnd\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:46:59.624Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd.Test\\CustomerTest.cs",
+              "RelativeDocumentMoniker": "CMS_BackEnd.Test\\CustomerTest.cs",
+              "ToolTip": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd.Test\\CustomerTest.cs",
+              "RelativeToolTip": "CMS_BackEnd.Test\\CustomerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:00:00.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Auth\\Auth.cs",
+              "RelativeDocumentMoniker": "CMS_BackEnd\\Auth\\Auth.cs",
+              "ToolTip": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Auth\\Auth.cs",
+              "RelativeToolTip": "CMS_BackEnd\\Auth\\Auth.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:43:26.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CMS_BackEnd\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Models\\Customer.cs",
+              "RelativeToolTip": "CMS_BackEnd\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:23:54.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\packages.config",
+              "RelativeDocumentMoniker": "CMS_BackEnd\\packages.config",
+              "ToolTip": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\packages.config",
+              "RelativeToolTip": "CMS_BackEnd\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-17T20:50:35.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerContext.cs",
+              "DocumentMoniker": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Models\\CustomerContext.cs",
+              "RelativeDocumentMoniker": "CMS_BackEnd\\Models\\CustomerContext.cs",
+              "ToolTip": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Models\\CustomerContext.cs",
+              "RelativeToolTip": "CMS_BackEnd\\Models\\CustomerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:31:26.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Global.asax.cs",
+              "RelativeDocumentMoniker": "CMS_BackEnd\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Global.asax.cs",
+              "RelativeToolTip": "CMS_BackEnd\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:36:05.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Web.config",
+              "RelativeDocumentMoniker": "CMS_BackEnd\\Web.config",
+              "ToolTip": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Web.config",
+              "RelativeToolTip": "CMS_BackEnd\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-17T10:49:16.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "CMS_BackEnd\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "CMS_BackEnd\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:43:21.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtTokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Auth\\JwtTokenProvider.cs",
+              "RelativeDocumentMoniker": "CMS_BackEnd\\Auth\\JwtTokenProvider.cs",
+              "ToolTip": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Auth\\JwtTokenProvider.cs",
+              "RelativeToolTip": "CMS_BackEnd\\Auth\\JwtTokenProvider.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:31:42.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "202408171310149_SeedCustomers.cs",
+              "DocumentMoniker": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Migrations\\202408171310149_SeedCustomers.cs",
+              "RelativeDocumentMoniker": "CMS_BackEnd\\Migrations\\202408171310149_SeedCustomers.cs",
+              "ToolTip": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Migrations\\202408171310149_SeedCustomers.cs",
+              "RelativeToolTip": "CMS_BackEnd\\Migrations\\202408171310149_SeedCustomers.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:10:20.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "CMS_BackEnd\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "CMS_BackEnd\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:24:27.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "202408171206478_UpdateEmailLength.cs",
+              "DocumentMoniker": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Migrations\\202408171206478_UpdateEmailLength.cs",
+              "RelativeDocumentMoniker": "CMS_BackEnd\\Migrations\\202408171206478_UpdateEmailLength.cs",
+              "ToolTip": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Migrations\\202408171206478_UpdateEmailLength.cs",
+              "RelativeToolTip": "CMS_BackEnd\\Migrations\\202408171206478_UpdateEmailLength.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:06:53.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "202408171125212_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Migrations\\202408171125212_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CMS_BackEnd\\Migrations\\202408171125212_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Migrations\\202408171125212_InitialCreate.cs",
+              "RelativeToolTip": "CMS_BackEnd\\Migrations\\202408171125212_InitialCreate.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:25:34.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "202408171139406_UpdateCustomerModel.cs",
+              "DocumentMoniker": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Migrations\\202408171139406_UpdateCustomerModel.cs",
+              "RelativeDocumentMoniker": "CMS_BackEnd\\Migrations\\202408171139406_UpdateCustomerModel.cs",
+              "ToolTip": "C:\\Users\\Husam\\source\\repos\\HusamHimidan\\customer-management-system-api\\CMS_BackEnd\\Migrations\\202408171139406_UpdateCustomerModel.cs",
+              "RelativeToolTip": "CMS_BackEnd\\Migrations\\202408171139406_UpdateCustomerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:39:44.854Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
